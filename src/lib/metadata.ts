@@ -100,7 +100,7 @@ export const projects = [
     id: 1,
     title: " SmartPrice AI - Mobile Price Predictor & Classifier",
     des: "A Streamlit-based ML app for real-time mobile price prediction and classification, featuring interactive inputs, instant feedback, and easy-to-understand metrics for all users.",
-    img: "images/projects/project1.jpg",
+    img: "images/projects/project1.png",
     icons: [
       { icon: SiPython, color: "#3776AB" },             // Python
       { icon: SiScikitlearn, color: "#F7931E" },        // Scikit-learn
