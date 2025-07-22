@@ -138,7 +138,7 @@ export const projects = [
     id: 3,
     title: "LSTM Stock Price Prediction",
     des: "An LSTM-based stock prediction tool using historical Yahoo Finance data, built with TensorFlow and Matplotlib to visualize real vs. predicted prices.",
-    img: "images/projects/project6.png",
+    img: "images/projects/project3.png",
     icons: [
       { icon: SiPython, color: "#3776AB" },             // Python
       { icon: SiTensorflow, color: "#FF6F00" }, 
@@ -151,7 +151,7 @@ export const projects = [
     id: 4,
     title: "Go Neural Network",
     des: "A simple neural network in Go using Gonum, trained on the Iris dataset for flower classification with feedforward and backpropagation.",
-    img: "images/projects/movie.jpg",
+    img: "images/projects/project4.png",
     icons: [
       { icon: SiGo, color: "#00ADD8" },               // Go (Golang)
       { icon: SiGithub, color: "#181717" },           // GitHub
@@ -165,7 +165,7 @@ export const projects = [
     id: 5,
     title: "Minimal Blockchain Project",
     des: " A lightweight blockchain built in Node.js with proof-of-work, P2P networking, wallet integration, and a web-based explorer UI for real-time transaction and block visualization.",
-    img: "images/projects/project3.png",
+    img: "images/projects/project5.png",
     icons: [
       { icon: SiNodedotjs, color: "#339933" },         // Node.js
       { icon: SiJavascript, color: "#F7DF1E" },        // JavaScript
@@ -181,7 +181,7 @@ export const projects = [
     id: 6,
     title: "MyAudi App Redesign - AR Feature Integration",
     des: "A redesigned MyAudi App with AR scanning to identify car parts in real time, featuring interactive manuals, videos, and an intuitive UI for a seamless user experience.",
-    img: "images/projects/project5.png",
+    img: "images/projects/project6.png",
     icons: [
       
         { icon: SiReact, color: "#61DAFB" },               // React Native
