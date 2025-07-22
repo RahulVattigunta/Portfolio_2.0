@@ -42,6 +42,7 @@ const skills = {
     { title: "Confluence", icon: FaConfluence, color: "#172B4D" },
     { title: "REST API", icon: TbApi, color: "#009688" },
     { title: "JIRA", icon: FaJira, color: "#0052CC" },
+    
   ],
 };
 
